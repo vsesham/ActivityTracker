@@ -1,6 +1,6 @@
 **Introduction**
 
-This assignment is aimed at creating a tidy dataset by using various data analysis, cleaning and merging techniques in R. Steps outlined here are in the order of functions used in run_analysis.R script. The output of this script is a csv file "tidyData.csv".
+This project is aimed at creating a tidy dataset by using various data analysis, cleaning and merging techniques in R. Steps outlined here are in the order of functions used in run_analysis.R script. The output of this script is a csv file "tidyData.csv".
 
 1.Reading train and test datasets using read.table() function
 
